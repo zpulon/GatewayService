@@ -3,3 +3,7 @@
 ################################################################################
 
 /OcelotServer/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0
+/OcelotServer/bin/Debug/netcoreapp3.1
+/OcelotServer/obj
+/OcelotServer/Properties
+/.vs/GatewayService/v16
